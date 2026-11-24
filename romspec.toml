@@ -1,0 +1,11 @@
+[rom]
+title = "911 Emergency 2.5D"
+short-title = "911"
+category = "APPLET_GAME"
+default-locale = "en"
+copyright = "CD358 911 Dispatcher v3 (MIT)"
+version = "3.0.0"
+
+[metadata.en]
+title = "911 Emergency 2.5D"
+short-title = "911"
